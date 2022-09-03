@@ -21,5 +21,9 @@ document.addEventListener("DOMContentLoaded", function() {
 ```
 ### Demo
 
-[https://codepen.io/killianog/pen/bGMNGgv](https://codepen.io/killianog/pen/bGMNGgv)
+<iframe
+  src="https://codepen.io/killianog/pen/bGMNGgv"
+  style="width:100%; height:300px;"
+></iframe>
+
 
