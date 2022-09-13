@@ -2,7 +2,7 @@
 To customize the selection background color edit the CSS variable `--selection-color` and selection text color edit the CSS variable `--text-color`. 
 
 ## Example
-![image](https://user-images.githubusercontent.com/83577130/189995934-f9cf8d0f-fef0-46a7-b009-ba89344f0af9.png)
+[0864d3b8-5dc0-409a-aebc-8e6f7a8c5816.webm](https://user-images.githubusercontent.com/83577130/189996314-9f0a1ad5-c639-42a2-8482-399bca164d78.webm)
 
 
 ## Inside `<head>` tag
