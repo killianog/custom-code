@@ -5,6 +5,7 @@ To customize the selection background color edit the CSS variable `--selection-c
 ### Values In the example
 `--selection-color: #f7f33a`
 `--text-color: #cba6d6`
+
 ![Example GIF](https://user-images.githubusercontent.com/83577130/189996561-4e541c42-f857-4a28-82ab-42b818972cc1.gif)
 
 
