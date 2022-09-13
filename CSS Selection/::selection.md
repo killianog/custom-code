@@ -10,8 +10,8 @@ To customize the selection background color edit the CSS variable `--selection-c
 <style>
     /* Color Variables (Edit)*/
     :root {
-        --selection-color: #f7f33a;
-        --text-color: #cba6d6;
+        --selection-color: #000;
+        --text-color: #fff;
     }
 
     /* Mouse Selection */
