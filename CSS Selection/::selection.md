@@ -1,7 +1,7 @@
 # ::selection
 To customize the selection background color edit the CSS variable `--selection-color` and selection text color edit the CSS variable `--text-color`
 
-## Inside <head> tag
+## Inside `<head>` tag
 ```CSS
 <style>
     /* Color Variables (Edit)*/
